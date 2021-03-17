@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My repos are organized over two github sites ([github.com](https://github.com/ratnanil) and [github.zhaw.ch](https://github.zhaw.ch/rata)) in various "organisations" I created. Here are some of my projects:
-
-
+My repos are organized over two github sites ([github.com](https://github.com/ratnanil) and [github.zhaw.ch](https://github.zhaw.ch/rata)) in various "organisations" I created. I've described some projects here: 
 
 <table cellpadding="50" border = "0">
   <tr>
