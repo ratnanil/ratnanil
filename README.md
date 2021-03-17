@@ -4,7 +4,7 @@ My repos are organized over two github sites ([github.com](https://github.com/ra
 
 
 
-<table cellpadding="50">
+<table cellpadding="50" border = "0">
   <tr>
     <td><img src = "images/arc2r.svg" width="100px" border = "5"></td>
     <td>
