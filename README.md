@@ -22,10 +22,56 @@ My repos are organized over two github sites ([github.com](https://github.com/ra
   <tr>
     <td><img src = "images/wildtierunfaelle.jpg" width="100px"></td>
     <td>
-    A Python Toolbox (Based on ArcGIS Software) to model hotspots of wildlife-vehicle collisions (wvc)
+    A Python Toolbox (Based on ArcGIS Software) to model hotspots of wildlife-vehicle collisions (wvc) <br>
     https://github.zhaw.ch/ASTRA/PythonToolbox
     </td> 
   </tr>
+  <tr>
+    <td><img src = "images/CMA.jpg" width="100px"></td>
+    <td>
+    Computational Movement Analysis: Detecting Patterns and Trends in Environmental Data. A course taught by Prof. Dr. Patrick Laube, I was responsible for creating the R-exercises. <br>
+    https://github.com/ComputationalMovementAnalysis/FS21
+    </td> 
+  </tr>
+  <tr>
+    <td><img src = "images/erfolgskontrolle.png" width="100px"></td>
+    <td>
+    Results from the weasle study 2019 / 2020<br>
+    https://github.com/wieselundco/erfolgskontrolle
+    </td> 
+  </tr>
+  </tr>
+  <tr>
+    <td><img src = "images/nistkastenmonitoring.png" width="100px"></td>
+    <td>
+    Updates on weasle research @ ZHAW (slides) <br>
+    https://github.com/ratnanil/WIN_Praesentation_2021
+    </td> 
+  </tr>
+  <tr>
+    <td><img src = "images/toolbox.png" width="100px"></td>
+    <td>
+    How do you document (ESRI-) Python Toolboxes inline?<br>
+    https://github.com/ratnanil/PythonToolboxDocumentation
+    </td> 
+  </tr> 
+  <tr>
+    <td><img src = "images/songs.png" width="100px"></td>
+    <td>
+    A Compilation of songs, created with bookdown<br>
+    https://github.com/ratnanil/songs <br>
+    https://github.com/ratnanil/songbookdown (R-Package)
+    </td> 
+  </tr> 
+  <tr>
+    <td><img src = "images/blog.gif" width="100px"></td>
+    <td>
+    The repo for my blog, hosted on nils.ratnaweera.net<br>
+    https://github.com/ratnanil/myblog
+    </td> 
+  </tr>   
+  
+  
 </table>
 
 
