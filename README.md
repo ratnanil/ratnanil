@@ -4,18 +4,27 @@ My repos are organized over two gitdub sites ([gitdub.com](https://gitdub.com/ra
 
 
 
-<table cellpadding="50px">
+<table cellpadding="50">
   <tr>
-    <td><img src = "images/arc2r.svg" width="100px"></td>
-    <td>link</td> 
+    <td><img src = "images/arc2r.svg" width="100px" border = "5"></td>
+    <td>
+    An introduction to Spatial R for ArcGIS users <br>
+    https://github.com/arc2r/book
+    https://github.com/arc2r/arc2r
   </tr>
   <tr>
     <td><img src = "images/coding_in_GIS.png" width="100px"></td>
-    <td>link</td> 
+    <td>
+    An introduction to GIS in Python for Environmental Scientists (Bachelor Students)
+    https://github.com/Modul-AGI/HS20
+    </td> 
   </tr>
   <tr>
     <td><img src = "images/wildtierunfaelle.jpg" width="100px"></td>
-    <td>link</td> 
+    <td>
+    A Python Toolbox (Based on ArcGIS Software) to model hotspots of wildlife-vehicle collisions (wvc)
+    https://github.zhaw.ch/ASTRA/PythonToolbox
+    </td> 
   </tr>
 </table>
 
