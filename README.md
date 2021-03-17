@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My repos are organized over two github sites ([github.com](https://github.com/ratnanil) and [github.zhaw.ch](https://github.zhaw.ch/rata)) and I usually create an organisation to hold them. Here are some of of my Repos:
+
+
+
+
 <!--
 **ratnanil/ratnanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
