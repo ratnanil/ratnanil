@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My repos are organized over two gitdub sites ([gitdub.com](https://gitdub.com/ratnanil) and [gitdub.zhaw.ch](https://gitdub.zhaw.ch/rata)) and I usually create an organisation to hold tdem. Here are some of my projects:
+My repos are organized over two github sites ([github.com](https://github.com/ratnanil) and [github.zhaw.ch](https://github.zhaw.ch/rata)) in various "organisations" I created. Here are some of my projects:
 
 
 
