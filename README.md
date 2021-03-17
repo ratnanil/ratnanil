@@ -9,21 +9,14 @@ My repos are organized over two github sites ([github.com](https://github.com/ra
     <td><img src = "images/arc2r.svg" width="100px" border = "5"></td>
     <td>
     An introduction to Spatial R for ArcGIS users <br>
-    https://github.com/arc2r/book
+    https://github.com/arc2r/book <br>
     https://github.com/arc2r/arc2r
   </tr>
   <tr>
     <td><img src = "images/coding_in_GIS.png" width="100px"></td>
     <td>
-    An introduction to GIS in Python for Environmental Scientists (Bachelor Students)
+    An introduction to GIS in Python for Environmental Scientists (Bachelor Students) <br>
     https://github.com/Modul-AGI/HS20
-    </td> 
-  </tr>
-  <tr>
-    <td><img src = "images/wildtierunfaelle.jpg" width="100px"></td>
-    <td>
-    A Python Toolbox (Based on ArcGIS Software) to model hotspots of wildlife-vehicle collisions (wvc) <br>
-    https://github.zhaw.ch/ASTRA/PythonToolbox
     </td> 
   </tr>
   <tr>
@@ -70,7 +63,13 @@ My repos are organized over two github sites ([github.com](https://github.com/ra
     https://github.com/ratnanil/myblog
     </td> 
   </tr>   
-  
+  <tr>
+    <td><img src = "images/wildtierunfaelle.jpg" width="100px"></td>
+    <td>
+    A Python Toolbox (Based on ArcGIS Software) to model hotspots of wildlife-vehicle collisions (wvc) <br>
+    https://github.zhaw.ch/ASTRA/PythonToolbox
+    </td> 
+  </tr>
   
 </table>
 
