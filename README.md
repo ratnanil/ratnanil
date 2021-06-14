@@ -27,7 +27,7 @@ My repos are organized over two github sites ([github.com](https://github.com/ra
   <tr>
     <td><img src = "images/erfolgskontrolle.png" width="100px"></td>
     <td>
-    Results from the weasle study 2019 / 2020<br>
+    Results from the weasel study 2019 / 2020<br>
     https://github.com/wieselundco/erfolgskontrolle
     </td> 
   </tr>
@@ -35,7 +35,7 @@ My repos are organized over two github sites ([github.com](https://github.com/ra
   <tr>
     <td><img src = "images/nistkastenmonitoring.png" width="100px"></td>
     <td>
-    Updates on weasle research @ ZHAW (slides) <br>
+    Updates on weasel research @ ZHAW (slides) <br>
     https://github.com/ratnanil/WIN_Praesentation_2021
     </td> 
   </tr>
