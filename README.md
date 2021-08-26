@@ -58,7 +58,7 @@ My repos are organized over two github sites ([github.com](https://github.com/ra
     <td><img src = "images/blog.gif" width="100px"></td>
     <td>
     The repo for my blog, hosted on nils.ratnaweera.net<br>
-    https://github.com/ratnanil/myblog
+    https://github.com/ratnanil/ratnanil.github.io
     </td> 
   </tr>   
   <tr>
